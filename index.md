@@ -10,7 +10,7 @@ I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/){:
 
 My research interests include text generation and its evaluation.
 Currently, I am working on text generation with reinforcement learning and multimodal text generation.
-My [dissertation](https://library.naist.jp/opac/book/106967){:target="_blank"} was about enhancing scene coverage and informativeness of image captioning models.
+My [dissertation](https://library.naist.jp/opac/en/book/106967){:target="_blank"} was about enhancing scene coverage and informativeness of image captioning models.
 
 Contact: honda_ukyo at cyberagent.co.jp  
 [[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=Cf48JmIAAAAJ&gmla=AJsN-F7cFOhEmj5wyPEjy3woOW4WiBiQFhraO_3UN_fCxQH0fbq8XZJfyShqQo402HnFePvN9hgn3pHoLY0My0X4s-cWUm46plZ7CvgUqxBH375gTxt-Yy3ZxkQYg6oWawg65NHEjeYN){:target="_blank"}] [[Semantic Scholar](https://www.semanticscholar.org/author/Ukyo-Honda/46205964){:target="_blank"}] [[GitHub](https://github.com/ukyh){:target="_blank"}] [[Speaker Deck](https://speakerdeck.com/ukyh){:target="_blank"}]
