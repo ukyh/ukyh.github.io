@@ -6,42 +6,42 @@ layout: home
 title: Ukyo Honda
 ---
 
-I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/) and also a visiting scientist at [RIKEN Center for AIP](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html). 
+I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/){:target="_blank"} and also a visiting scientist at [RIKEN Center for AIP](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html){:target="_blank"}. 
 
 My research interests include text generation and its evaluation.
 Currently, I am working on text generation with reinforcement learning and multimodal text generation.
-My [dissertation](https://library.naist.jp/opac/book/106967) was about enhancing scene coverage and informativeness of image captioning models.
+My [dissertation](https://library.naist.jp/opac/book/106967){:target="_blank"} was about enhancing scene coverage and informativeness of image captioning models.
 
 Contact: honda_ukyo at cyberagent.co.jp  
-[[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=Cf48JmIAAAAJ&gmla=AJsN-F7cFOhEmj5wyPEjy3woOW4WiBiQFhraO_3UN_fCxQH0fbq8XZJfyShqQo402HnFePvN9hgn3pHoLY0My0X4s-cWUm46plZ7CvgUqxBH375gTxt-Yy3ZxkQYg6oWawg65NHEjeYN)] [[Semantic Scholar](https://www.semanticscholar.org/author/Ukyo-Honda/46205964)] [[GitHub](https://github.com/ukyh)] [[Speaker Deck](https://speakerdeck.com/ukyh)]
+[[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=Cf48JmIAAAAJ&gmla=AJsN-F7cFOhEmj5wyPEjy3woOW4WiBiQFhraO_3UN_fCxQH0fbq8XZJfyShqQo402HnFePvN9hgn3pHoLY0My0X4s-cWUm46plZ7CvgUqxBH375gTxt-Yy3ZxkQYg6oWawg65NHEjeYN){:target="_blank"}] [[Semantic Scholar](https://www.semanticscholar.org/author/Ukyo-Honda/46205964){:target="_blank"}] [[GitHub](https://github.com/ukyh){:target="_blank"}] [[Speaker Deck](https://speakerdeck.com/ukyh){:target="_blank"}]
 
 # Publications
 
 ## Refereed
 
-* [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Honda_Switching_to_Discriminative_Image_Captioning_by_Relieving_a_Bottleneck_of_WACV_2023_paper.pdf)  
+* [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Honda_Switching_to_Discriminative_Image_Captioning_by_Relieving_a_Bottleneck_of_WACV_2023_paper.pdf){:target="_blank"}  
 <u>Ukyo Honda</u>, Taro Watanabe, and Yuji Matsumoto. *WACV* 2023.  
-[[arxiv](https://arxiv.org/abs/2212.03230)][[code](https://github.com/ukyh/switch_disc_caption)]
+[[arxiv](https://arxiv.org/abs/2212.03230){:target="_blank"}][[code](https://github.com/ukyh/switch_disc_caption){:target="_blank"}]
 
-* [Explainable Natural Language Inference in the Legal Domain via Text Generation](https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_C-MB6/_article/-char/en)  
+* [Explainable Natural Language Inference in the Legal Domain via Text Generation](https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_C-MB6/_article/-char/en){:target="_blank"}  
 Jungmin Choi, <u>Ukyo Honda</u>, Taro Watanabe, and Kentaro Inui. *Transactions of the Japanese Society for Artificial Intelligence* 2023.  
 
-* [Removing Partial Mismatches in Unsupervised Image Captioning](https://www.jstage.jst.go.jp/article/tjsai/37/2/37_37-2_H-L82/_article/-char/en)  
+* [Removing Partial Mismatches in Unsupervised Image Captioning](https://www.jstage.jst.go.jp/article/tjsai/37/2/37_37-2_H-L82/_article/-char/en){:target="_blank"}  
 <u>Ukyo Honda</u>, Atsushi Hashimoto, Taro Watanabe, and Yuji Matsumoto. *Transactions of the Japanese Society for Artificial Intelligence* 2022.  
 
-* [Law Retrieval with Supervised Contrastive Learning using the Hierarchical Structure of Law](https://aclanthology.org/2022.paclic-1.65/)  
+* [Law Retrieval with Supervised Contrastive Learning using the Hierarchical Structure of Law](https://aclanthology.org/2022.paclic-1.65/){:target="_blank"}  
 Jungmin Choi, <u>Ukyo Honda</u>, Taro Watanabe, Kentaro Inui, and Hiroki Ouchi. *PACLIC* 2022.  
 
-* [Removing Word-Level Spurious Alignment between Images and Pseudo-Captions in Unsupervised Image Captioning](https://aclanthology.org/2021.eacl-main.323/)  
+* [Removing Word-Level Spurious Alignment between Images and Pseudo-Captions in Unsupervised Image Captioning](https://aclanthology.org/2021.eacl-main.323/){:target="_blank"}  
 <u>Ukyo Honda</u>, Yoshitaka Ushiku, Atsushi Hashimoto, Taro Watanabe, and Yuji Matsumoto. *EACL* 2021.  
-[[arxiv](https://arxiv.org/abs/2104.13872)][[code](https://github.com/ukyh/RemovingSpuriousAlignment)]
+[[arxiv](https://arxiv.org/abs/2104.13872){:target="_blank"}][[code](https://github.com/ukyh/RemovingSpuriousAlignment){:target="_blank"}]
 
-* [Characterization of Pulmonary Nodules in Computed Tomography Images Based on Pseudo-Labeling Using Radiology Reports](https://ieeexplore.ieee.org/abstract/document/9402853/)  
+* [Characterization of Pulmonary Nodules in Computed Tomography Images Based on Pseudo-Labeling Using Radiology Reports](https://ieeexplore.ieee.org/abstract/document/9402853/){:target="_blank"}  
 Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamura, and Yuji Matsumoto. *IEEE Transactions on Circuits and Systems for Video Technology* 2021.   
 
-* [Pruning Basic Elements for Better Automatic Evaluation of Summaries](https://aclanthology.org/N18-2104/)  
+* [Pruning Basic Elements for Better Automatic Evaluation of Summaries](https://aclanthology.org/N18-2104/){:target="_blank"}  
 <u>Ukyo Honda</u>, Tsutomu Hirao, and Masaaki Nagata. *NAACL-HLT* 2018.  
-[[code](https://github.com/ukyh/prunedBE)]
+[[code](https://github.com/ukyh/prunedBE){:target="_blank"}]
 
 ## Non-Refereed
 
