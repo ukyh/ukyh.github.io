@@ -60,15 +60,15 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 
 # Awards
 
-* Best Paper Award / 最優秀賞  
+* [Best Paper Award / 最優秀賞](https://www.anlp.jp/nlp2022/award.html){:target="_blank"}  
 <u>Ukyo Honda</u>, Taro Watanabe, and Yuji Matsumoto  
 Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 (Mar. 2022)
 
-* Outstanding Research Award / 優秀研究賞 (インタラクティブセッション発表部門)  
+* [Outstanding Research Award / 優秀研究賞 (インタラクティブセッション発表部門)](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/){:target="_blank"}  
 Jungmin Choi, <u>Ukyo Honda</u>, Taro Watanabe, Kentaro Inui, and Hiroki Ouchi  
 Annual Conference of the Japanese Society for Artificial Intelligence / 人工知能学会全国大会 (Jun. 2022)
 
-* Young Researcher Award / 若手奨励賞  
+* [Young Researcher Award / 若手奨励賞](https://www.anlp.jp/nlp2021/award.html){:target="_blank"}  
 <u>Ukyo Honda</u>, Yoshitaka Ushiku, Atsushi Hashimoto, Taro Watanabe, and Yuji Matsumoto  
 Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 (Mar. 2021)
 
