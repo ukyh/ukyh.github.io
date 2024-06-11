@@ -6,10 +6,9 @@ layout: home
 title: Ukyo Honda
 ---
 
-I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/){:target="_blank"} and also a visiting scientist at [RIKEN Center for AIP](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html){:target="_blank"}. 
-
+I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/){:target="_blank"}.
 My research interests include text generation and its evaluation.
-Currently, I am working on text generation with reinforcement learning and multimodal text generation.
+Currently, I am working on text decoding algorithms, reinforcement learning for text generation, and out-of-distribution robustness.
 My [dissertation](https://library.naist.jp/opac/en/book/106967){:target="_blank"} was about enhancing scene coverage and informativeness of image captioning models.
 
 Contact: honda_ukyo at cyberagent.co.jp  
@@ -18,6 +17,38 @@ Contact: honda_ukyo at cyberagent.co.jp
 # Publications
 
 ## Refereed
+
+<!-- * [](){:target="_blank"}  
+<u>Ukyo Honda</u>
+[[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
+
+* [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](){:target="_blank"}  
+<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024 (to appear).  
+<!-- [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
+
+* [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://arxiv.org/abs/2401.05054){:target="_blank"}  
+Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024 (to appear).  
+[[arxiv](https://arxiv.org/abs/2401.05054){:target="_blank"}][[code](https://github.com/CyberAgentAILab/diverse-mbr){:target="_blank"}]
+
+* [Model-Based Minimum Bayes Risk Decoding](https://arxiv.org/abs/2311.05263){:target="_blank"}  
+Yuu Jinnai, Tetsuro Morimura, <u>Ukyo Honda</u>, Kaito Ariu, and Kenshi Abe. *ICML* 2024 (to appear).  
+[[arxiv](https://arxiv.org/abs/2311.05263){:target="_blank"}][[code](https://github.com/CyberAgentAILab/model-based-mbr){:target="_blank"}]
+
+* [Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/2405.01280){:target="_blank"}  
+Hao Wang, Tetsuro Morimura, <u>Ukyo Honda</u>, and Daisuke Kawahara. *NAACL-SRW* 2024 (to appear).  
+[[arxiv](){:target="_blank"}]
+
+* [On the True Distribution Approximation of Minimum Bayes-Risk Decoding](https://arxiv.org/abs/2404.00752){:target="_blank"}  
+Atsumoto Ohashi, <u>Ukyo Honda</u>, Tetsuro Morimura, and Yuu Jinnai. *NAACL* 2024 (to appear).  
+[[arxiv](https://arxiv.org/abs/2404.00752){:target="_blank"}][[code](https://github.com/CyberAgentAILab/mbr-anomaly){:target="_blank"}]
+
+* [CAMERA³: An Evaluation Dataset for Controllable Ad Text Generation in Japanese](https://aclanthology.org/2024.lrec-main.242/){:target="_blank"}  
+Go Inoue, Akihiko Kato, Masato Mita, <u>Ukyo Honda</u>, and Peinan Zhang. *LREC-COLING* 2024.  
+[[code](https://github.com/CyberAgentAILab/camera3){:target="_blank"}]
+
+* [A Single Linear Layer Yields Task-Adapted Low-Rank Matrices](https://aclanthology.org/2024.lrec-main.141/){:target="_blank"}  
+Hwichan Kim, Shota Sasaki, Sho Hoshino, and <u>Ukyo Honda</u>. *LREC-COLING* 2024.  
+[[arxiv](https://arxiv.org/abs/2403.14946){:target="_blank"}][[code](https://github.com/CyberAgentAILab/CondLoRA){:target="_blank"}]
 
 * [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Honda_Switching_to_Discriminative_Image_Captioning_by_Relieving_a_Bottleneck_of_WACV_2023_paper.pdf){:target="_blank"}  
 <u>Ukyo Honda</u>, Taro Watanabe, and Yuji Matsumoto. *WACV* 2023.  
@@ -40,8 +71,17 @@ Jungmin Choi, <u>Ukyo Honda</u>, Taro Watanabe, Kentaro Inui, and Hiroki Ouchi. 
 Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamura, and Yuji Matsumoto. *IEEE Transactions on Circuits and Systems for Video Technology* 2021.   
 
 * [Pruning Basic Elements for Better Automatic Evaluation of Summaries](https://aclanthology.org/N18-2104/){:target="_blank"}  
-<u>Ukyo Honda</u>, Tsutomu Hirao, and Masaaki Nagata. *NAACL-HLT* 2018.  
+<u>Ukyo Honda</u>, Tsutomu Hirao, and Masaaki Nagata. *NAACL* 2018.  
 [[code](https://github.com/ukyh/prunedBE){:target="_blank"}]
+
+## Preprints
+
+* [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
+Yuu Jinnai and <u>Ukyo Honda</u>.  *arxiv* 2024.  
+[[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
+
+* [On the Depth between Beam Search and Exhaustive Search for Text Generation](https://arxiv.org/abs/2308.13696){:target="_blank"}  
+Yuu Jinnai, Tetsuro Morimura, and <u>Ukyo Honda</u>. *arxiv* 2023.  
 
 ## Non-Refereed
 
