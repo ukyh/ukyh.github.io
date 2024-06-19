@@ -22,9 +22,9 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](){:target="_blank"}  
+* [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://arxiv.org/abs/2406.12060){:target="_blank"}  
 <u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024 (to appear).  
-<!-- [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
+[[arxiv](https://arxiv.org/abs/2406.12060){:target="_blank"}][[code](https://github.com/CyberAgentAILab/posthoc-control-moe.git){:target="_blank"}]
 
 * [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://arxiv.org/abs/2401.05054){:target="_blank"}  
 Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024 (to appear).  
@@ -34,12 +34,12 @@ Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of 
 Yuu Jinnai, Tetsuro Morimura, <u>Ukyo Honda</u>, Kaito Ariu, and Kenshi Abe. *ICML* 2024 (to appear).  
 [[arxiv](https://arxiv.org/abs/2311.05263){:target="_blank"}][[code](https://github.com/CyberAgentAILab/model-based-mbr){:target="_blank"}]
 
-* [Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/2405.01280){:target="_blank"}  
-Hao Wang, Tetsuro Morimura, <u>Ukyo Honda</u>, and Daisuke Kawahara. *NAACL-SRW* 2024 (to appear).  
-[[arxiv](){:target="_blank"}]
+* [Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation](https://aclanthology.org/2024.naacl-srw.22/){:target="_blank"}  
+Hao Wang, Tetsuro Morimura, <u>Ukyo Honda</u>, and Daisuke Kawahara. *NAACL-SRW* 2024.  
+[[arxiv](https://arxiv.org/abs/2405.01280){:target="_blank"}]
 
-* [On the True Distribution Approximation of Minimum Bayes-Risk Decoding](https://arxiv.org/abs/2404.00752){:target="_blank"}  
-Atsumoto Ohashi, <u>Ukyo Honda</u>, Tetsuro Morimura, and Yuu Jinnai. *NAACL* 2024 (to appear).  
+* [On the True Distribution Approximation of Minimum Bayes-Risk Decoding](https://aclanthology.org/2024.naacl-short.38/){:target="_blank"}  
+Atsumoto Ohashi, <u>Ukyo Honda</u>, Tetsuro Morimura, and Yuu Jinnai. *NAACL* 2024.  
 [[arxiv](https://arxiv.org/abs/2404.00752){:target="_blank"}][[code](https://github.com/CyberAgentAILab/mbr-anomaly){:target="_blank"}]
 
 * [CAMERA³: An Evaluation Dataset for Controllable Ad Text Generation in Japanese](https://aclanthology.org/2024.lrec-main.242/){:target="_blank"}  
