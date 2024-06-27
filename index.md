@@ -6,7 +6,7 @@ layout: home
 title: Ukyo Honda
 ---
 
-I am a research scientist at [CyberAgent AI Lab](https://cyberagent.ai/ailab/){:target="_blank"}.
+I am a research scientist at [CyberAgent AI Lab](https://research.cyberagent.ai/){:target="_blank"}.
 My research interests include text generation and its evaluation.
 Currently, I am working on text decoding algorithms, reinforcement learning for text generation, and out-of-distribution robustness.
 My [dissertation](https://library.naist.jp/opac/en/book/106967){:target="_blank"} was about enhancing scene coverage and informativeness of image captioning models.
