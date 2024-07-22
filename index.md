@@ -30,8 +30,8 @@ Contact: honda_ukyo at cyberagent.co.jp
 Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024 (to appear).  
 [[arxiv](https://arxiv.org/abs/2401.05054){:target="_blank"}][[code](https://github.com/CyberAgentAILab/diverse-mbr){:target="_blank"}]
 
-* [Model-Based Minimum Bayes Risk Decoding](https://arxiv.org/abs/2311.05263){:target="_blank"}  
-Yuu Jinnai, Tetsuro Morimura, <u>Ukyo Honda</u>, Kaito Ariu, and Kenshi Abe. *ICML* 2024 (to appear).  
+* [Model-Based Minimum Bayes Risk Decoding for Text Generation](https://proceedings.mlr.press/v235/jinnai24a.html){:target="_blank"}  
+Yuu Jinnai, Tetsuro Morimura, <u>Ukyo Honda</u>, Kaito Ariu, and Kenshi Abe. *ICML* 2024.  
 [[arxiv](https://arxiv.org/abs/2311.05263){:target="_blank"}][[code](https://github.com/CyberAgentAILab/model-based-mbr){:target="_blank"}]
 
 * [Reinforcement Learning for Edit-Based Non-Autoregressive Neural Machine Translation](https://aclanthology.org/2024.naacl-srw.22/){:target="_blank"}  
