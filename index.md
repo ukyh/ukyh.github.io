@@ -26,8 +26,8 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024 (to appear).  
 [[arxiv](https://arxiv.org/abs/2406.12060){:target="_blank"}][[code](https://github.com/CyberAgentAILab/posthoc-control-moe.git){:target="_blank"}]
 
-* [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://arxiv.org/abs/2401.05054){:target="_blank"}  
-Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024 (to appear).  
+* [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://aclanthology.org/2024.findings-acl.503/){:target="_blank"}  
+Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024.  
 [[arxiv](https://arxiv.org/abs/2401.05054){:target="_blank"}][[code](https://github.com/CyberAgentAILab/diverse-mbr){:target="_blank"}]
 
 * [Model-Based Minimum Bayes Risk Decoding for Text Generation](https://proceedings.mlr.press/v235/jinnai24a.html){:target="_blank"}  
