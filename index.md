@@ -22,8 +22,8 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://arxiv.org/abs/2406.12060){:target="_blank"}  
-<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024 (to appear).  
+* [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00701/124836/Not-Eliminate-but-Aggregate-Post-Hoc-Control-over){:target="_blank"}  
+<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024.  
 [[arxiv](https://arxiv.org/abs/2406.12060){:target="_blank"}][[code](https://github.com/CyberAgentAILab/posthoc-control-moe.git){:target="_blank"}]
 
 * [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://aclanthology.org/2024.findings-acl.503/){:target="_blank"}  
