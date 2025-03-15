@@ -76,6 +76,10 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 
 ## Preprints
 
+* [FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation](https://arxiv.org/abs/2410.03839){:target="_blank"}  
+Akihiko Kato, Masato Mita, Soichiro Murakami, <u>Ukyo Honda</u>, Sho Hoshino, and Peinan Zhang. *arxiv* 2024.  
+[[code](https://github.com/CyberAgentAILab/FaithCAMERA){:target="_blank"}]
+
 * [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
 Yuu Jinnai and <u>Ukyo Honda</u>.  *arxiv* 2024.  
 [[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
@@ -89,7 +93,12 @@ Yuu Jinnai, Tetsuro Morimura, and <u>Ukyo Honda</u>. *arxiv* 2023.
 * [Committee Special Award / 委員特別賞](https://www.anlp.jp/nlp2025/award.html#committee){:target="_blank"}  
 Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2025  
 Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解  
-<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita.  
+<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita  
+
+* [Committee Special Award / 委員特別賞](https://www.anlp.jp/nlp2025/award.html#committee){:target="_blank"}  
+Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2025  
+FaithCAMERA: 広告文生成タスクのための忠実性を担保した評価データセットの構築  
+Akihiko Kato, Masato Mita, Soichiro Murakami, <u>Ukyo Honda</u>, Sho Hoshino, and Peinan Zhang  
 
 * [Best Paper Award / 最優秀賞](https://www.anlp.jp/nlp2022/award.html#best){:target="_blank"}  
 Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2022  
