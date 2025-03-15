@@ -83,34 +83,28 @@ Yuu Jinnai and <u>Ukyo Honda</u>.  *arxiv* 2024.
 * [On the Depth between Beam Search and Exhaustive Search for Text Generation](https://arxiv.org/abs/2308.13696){:target="_blank"}  
 Yuu Jinnai, Tetsuro Morimura, and <u>Ukyo Honda</u>. *arxiv* 2023.  
 
-## Non-Refereed
-
-* 強化学習における画像キャプションの低識別性問題とLong-Tail分類手法を用いた対処  
-<u>本多右京</u>, 渡辺太郎, 松本裕治. *言語処理学会第28回年次大会* 2022.
-
-* 法律の階層構造を利用した教師あり対照学習による法律検索  
-チェ ジョンミン, <u>本多右京</u>, 渡辺太郎, 大内啓樹. *第36回人工知能学会全国大会* 2022.
-
-* 画像と単語の不一致を考慮した疑似教師ありキャプション生成  
-<u>本多右京</u>, 牛久祥孝, 橋本敦史, 渡辺太郎, 松本裕治. *言語処理学会第27回年次大会* 2021.
-
-* 冗長なNgram/Basic Elementsを除いた自動要約評価指標  
-<u>本多右京</u>, 平尾努, 永田昌明. *言語処理学会第24回年次大会* 2018.
-
 
 # Awards
 
-* [Best Paper Award / 最優秀賞](https://www.anlp.jp/nlp2022/award.html){:target="_blank"}  
+* [Committee Special Award / 委員特別賞](https://www.anlp.jp/nlp2025/award.html#committee){:target="_blank"}  
+Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2025  
+Mixture-of-Expertsの悲観的な統合による頑健な自然言語理解  
+<u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita.  
+
+* [Best Paper Award / 最優秀賞](https://www.anlp.jp/nlp2022/award.html#best){:target="_blank"}  
+Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2022  
+強化学習における画像キャプションの低識別性問題とLong-Tail分類手法を用いた対処  
 <u>Ukyo Honda</u>, Taro Watanabe, and Yuji Matsumoto  
-Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 (Mar. 2022)
 
 * [Outstanding Research Award / 優秀研究賞 (インタラクティブセッション発表部門)](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/){:target="_blank"}  
+Annual Conference of the Japanese Society for Artificial Intelligence / 人工知能学会全国大会 2022  
+法律の階層構造を利用した教師あり対照学習による法律検索  
 Jungmin Choi, <u>Ukyo Honda</u>, Taro Watanabe, Kentaro Inui, and Hiroki Ouchi  
-Annual Conference of the Japanese Society for Artificial Intelligence / 人工知能学会全国大会 (Jun. 2022)
 
-* [Young Researcher Award / 若手奨励賞](https://www.anlp.jp/nlp2021/award.html){:target="_blank"}  
+* [Young Researcher Award / 若手奨励賞](https://www.anlp.jp/nlp2021/award.html#encouragement){:target="_blank"}  
+Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 2021  
+画像と単語の不一致を考慮した疑似教師ありキャプション生成  
 <u>Ukyo Honda</u>, Yoshitaka Ushiku, Atsushi Hashimoto, Taro Watanabe, and Yuji Matsumoto  
-Annual Meeting of the Association for Natural Language Processing / 言語処理学会年次大会 (Mar. 2021)
 
 
 # Education
