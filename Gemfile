@@ -36,3 +36,4 @@ gem "webrick", "~> 1.8.2"
 
 gem "nokogiri", ">= 1.18.4"
 gem "rexml", ">= 3.3.9"
+gem "uri", ">= 0.13.2"
