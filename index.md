@@ -22,15 +22,16 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* Exploring Explanations Improves the Robustness of In-Context Learning  
-<u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (to appear).
+* [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378)  
+<u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main, to appear).  
+[[arxiv](https://arxiv.org/abs/2506.02378){:target="_blank"}][[code](https://github.com/CyberAgentAILab/x2-icl){:target="_blank"}]
 
 * [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00701/124836/Not-Eliminate-but-Aggregate-Post-Hoc-Control-over){:target="_blank"}  
 <u>Ukyo Honda</u>, Tatsushi Oka, Peinan Zhang, and Masato Mita. *TACL* 2024.  
-[[arxiv](https://arxiv.org/abs/2406.12060){:target="_blank"}][[code](https://github.com/CyberAgentAILab/posthoc-control-moe.git){:target="_blank"}]
+[[arxiv](https://arxiv.org/abs/2406.12060){:target="_blank"}][[code](https://github.com/CyberAgentAILab/posthoc-control-moe){:target="_blank"}]
 
 * [Generating Diverse and High-Quality Texts by Minimum Bayes Risk Decoding](https://aclanthology.org/2024.findings-acl.503/){:target="_blank"}  
-Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *Findings of ACL* 2024.  
+Yuu Jinnai, <u>Ukyo Honda</u>, Tetsuro Morimura, and Peinan Zhang. *ACL* 2024 (Findings).  
 [[arxiv](https://arxiv.org/abs/2401.05054){:target="_blank"}][[code](https://github.com/CyberAgentAILab/diverse-mbr){:target="_blank"}]
 
 * [Model-Based Minimum Bayes Risk Decoding for Text Generation](https://proceedings.mlr.press/v235/jinnai24a.html){:target="_blank"}  
@@ -42,7 +43,7 @@ Hao Wang, Tetsuro Morimura, <u>Ukyo Honda</u>, and Daisuke Kawahara. *NAACL-SRW*
 [[arxiv](https://arxiv.org/abs/2405.01280){:target="_blank"}]
 
 * [On the True Distribution Approximation of Minimum Bayes-Risk Decoding](https://aclanthology.org/2024.naacl-short.38/){:target="_blank"}  
-Atsumoto Ohashi, <u>Ukyo Honda</u>, Tetsuro Morimura, and Yuu Jinnai. *NAACL* 2024.  
+Atsumoto Ohashi, <u>Ukyo Honda</u>, Tetsuro Morimura, and Yuu Jinnai. *NAACL* 2024 (Main).  
 [[arxiv](https://arxiv.org/abs/2404.00752){:target="_blank"}][[code](https://github.com/CyberAgentAILab/mbr-anomaly){:target="_blank"}]
 
 * [CAMERA³: An Evaluation Dataset for Controllable Ad Text Generation in Japanese](https://aclanthology.org/2024.lrec-main.242/){:target="_blank"}  
