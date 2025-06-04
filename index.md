@@ -22,7 +22,7 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378)  
+* [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378){:target="_blank"}    
 <u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main, to appear).  
 [[arxiv](https://arxiv.org/abs/2506.02378){:target="_blank"}][[code](https://github.com/CyberAgentAILab/x2-icl){:target="_blank"}]
 
