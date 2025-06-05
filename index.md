@@ -80,6 +80,9 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 
 ## Preprints
 
+* [Exploring the Relationship Between Diversity and Quality in Ad Text Generation](https://arxiv.org/abs/2505.16418){:target="_blank"}  
+Yoichi Aoki, Soichiro Murakami, <u>Ukyo Honda</u>, and Akihiko Kato. *arxiv* 2025.  
+
 * [FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation](https://arxiv.org/abs/2410.03839){:target="_blank"}  
 Akihiko Kato, Masato Mita, Soichiro Murakami, <u>Ukyo Honda</u>, Sho Hoshino, and Peinan Zhang. *arxiv* 2024.  
 [[code](https://github.com/CyberAgentAILab/FaithCAMERA){:target="_blank"}]
