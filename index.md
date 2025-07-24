@@ -22,8 +22,8 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Exploring Explanations Improves the Robustness of In-Context Learning](https://arxiv.org/abs/2506.02378){:target="_blank"}    
-<u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main, to appear).  
+* [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/){:target="_blank"}    
+<u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main).  
 [[arxiv](https://arxiv.org/abs/2506.02378){:target="_blank"}][[code](https://github.com/CyberAgentAILab/x2-icl){:target="_blank"}]
 
 * [Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00701/124836/Not-Eliminate-but-Aggregate-Post-Hoc-Control-over){:target="_blank"}  
