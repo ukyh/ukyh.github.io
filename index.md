@@ -22,6 +22,13 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
+* Distilling Many-Shot In-Context Learning into a Cheat Sheet  
+<u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings, to appear).  
+
+* [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
+Yuu Jinnai and <u>Ukyo Honda</u>. *EMNLP* 2025 (Findings, to appear).  
+[[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
+
 * [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/){:target="_blank"}    
 <u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main).  
 [[arxiv](https://arxiv.org/abs/2506.02378){:target="_blank"}][[code](https://github.com/CyberAgentAILab/x2-icl){:target="_blank"}]
@@ -86,10 +93,6 @@ Yoichi Aoki, Soichiro Murakami, <u>Ukyo Honda</u>, and Akihiko Kato. *arxiv* 202
 * [FaithCAMERA: Construction of a Faithful Dataset for Ad Text Generation](https://arxiv.org/abs/2410.03839){:target="_blank"}  
 Akihiko Kato, Masato Mita, Soichiro Murakami, <u>Ukyo Honda</u>, Sho Hoshino, and Peinan Zhang. *arxiv* 2024.  
 [[code](https://github.com/CyberAgentAILab/FaithCAMERA){:target="_blank"}]
-
-* [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
-Yuu Jinnai and <u>Ukyo Honda</u>.  *arxiv* 2024.  
-[[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
 
 * [On the Depth between Beam Search and Exhaustive Search for Text Generation](https://arxiv.org/abs/2308.13696){:target="_blank"}  
 Yuu Jinnai, Tetsuro Morimura, and <u>Ukyo Honda</u>. *arxiv* 2023.  
