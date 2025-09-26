@@ -22,12 +22,13 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* Distilling Many-Shot In-Context Learning into a Cheat Sheet  
+* [Distilling Many-Shot In-Context Learning into a Cheat Sheet](http://arxiv.org/abs/2509.20820){:target="_blank"}    
 <u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings, to appear).  
+[[arxiv](http://arxiv.org/abs/2509.20820){:target="_blank"}][[code](https://github.com/CyberAgentAILab/cheat-sheet-icl){:target="_blank"}]
 
 * [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
 Yuu Jinnai and <u>Ukyo Honda</u>. *EMNLP* 2025 (Findings, to appear).  
-[[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
+[[arxiv](https://arxiv.org/abs/2405.13541){:target="_blank"}][[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
 
 * [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/){:target="_blank"}    
 <u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main).  
