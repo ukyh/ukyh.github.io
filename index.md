@@ -22,13 +22,16 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Distilling Many-Shot In-Context Learning into a Cheat Sheet](http://arxiv.org/abs/2509.20820){:target="_blank"}    
-<u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings, to appear).  
+* [Distilling Many-Shot In-Context Learning into a Cheat Sheet](https://aclanthology.org/2025.findings-emnlp.930/){:target="_blank"}    
+<u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings).  
 [[arxiv](http://arxiv.org/abs/2509.20820){:target="_blank"}][[code](https://github.com/CyberAgentAILab/cheat-sheet-icl){:target="_blank"}]
 
-* [Annotation-Efficient Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.13541){:target="_blank"}  
-Yuu Jinnai and <u>Ukyo Honda</u>. *EMNLP* 2025 (Findings, to appear).  
+* [Annotation-Efficient Preference Optimization for Language Model Alignment](https://aclanthology.org/2025.findings-emnlp.903/){:target="_blank"}  
+Yuu Jinnai and <u>Ukyo Honda</u>. *EMNLP* 2025 (Findings).  
 [[arxiv](https://arxiv.org/abs/2405.13541){:target="_blank"}][[code](https://github.com/CyberAgentAILab/annotation-efficient-po){:target="_blank"}]
+
+* [Multimodal Markup Document Models for Graphic Design Completion](https://dl.acm.org/doi/10.1145/3746027.3755420){:target="_blank"}  
+Kotaro Kikuchi, <u>Ukyo Honda</u>, Naoto Inoue, Mayu Otani, Edgar Simo-Serra, and Kota Yamaguchi. *ACM MM* 2025.  
 
 * [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/){:target="_blank"}    
 <u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main).  
