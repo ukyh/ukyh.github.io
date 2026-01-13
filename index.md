@@ -32,6 +32,7 @@ Yuu Jinnai and <u>Ukyo Honda</u>. *EMNLP* 2025 (Findings).
 
 * [Multimodal Markup Document Models for Graphic Design Completion](https://dl.acm.org/doi/10.1145/3746027.3755420){:target="_blank"}  
 Kotaro Kikuchi, <u>Ukyo Honda</u>, Naoto Inoue, Mayu Otani, Edgar Simo-Serra, and Kota Yamaguchi. *ACM MM* 2025.  
+[[arxiv](https://arxiv.org/abs/2409.19051){:target="_blank"}][[code](https://github.com/CyberAgentAILab/MarkupDM){:target="_blank"}]
 
 * [Exploring Explanations Improves the Robustness of In-Context Learning](https://aclanthology.org/2025.acl-long.1155/){:target="_blank"}    
 <u>Ukyo Honda</u> and Tatsushi Oka. *ACL* 2025 (Main).  
