@@ -23,7 +23,13 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Distilling Many-Shot In-Context Learning into a Cheat Sheet](https://aclanthology.org/2025.findings-emnlp.930/){:target="_blank"}    
+* [Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?](){:target="_blank"}  
+Sho Hoshino, <u>Ukyo Honda</u>, and Peinan Zhang. *ACL* 2026 (Main, to appear).  
+
+* [BiCSRouter: Bi-Level Cross-System Routing for Utility-Aware LLM Inference](){:target="_blank"}  
+Keyu Mao, Eiki Murata, and <u>Ukyo Honda</u>. *ACL* 2026 (Findings, to appear).  
+
+* [Distilling Many-Shot In-Context Learning into a Cheat Sheet](https://aclanthology.org/2025.findings-emnlp.930/){:target="_blank"}  
 <u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings).  
 [[arxiv](http://arxiv.org/abs/2509.20820){:target="_blank"}][[code](https://github.com/CyberAgentAILab/cheat-sheet-icl){:target="_blank"}]
 
