@@ -99,6 +99,9 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 
 ## Preprints
 
+* [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://arxiv.org/abs/2604.08880){:target="_blank"}  
+Tokio Kajitsuka, <u>Ukyo Honda</u>, and Sho Takase. *arxiv* 2026.  
+
 * [Exploring the Relationship Between Diversity and Quality in Ad Text Generation](https://arxiv.org/abs/2505.16418){:target="_blank"}  
 Yoichi Aoki, Soichiro Murakami, <u>Ukyo Honda</u>, and Akihiko Kato. *arxiv* 2025.  
 
