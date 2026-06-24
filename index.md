@@ -23,11 +23,12 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
-* [Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?](){:target="_blank"}  
-Sho Hoshino, <u>Ukyo Honda</u>, and Peinan Zhang. *ACL* 2026 (Main, to appear).  
+* [Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?](https://aclanthology.org/2026.acl-short.2/){:target="_blank"}  
+Sho Hoshino, <u>Ukyo Honda</u>, and Peinan Zhang. *ACL* 2026 (Main).  
+[[arxiv](https://arxiv.org/abs/2604.19395){:target="_blank"}]
 
-* [BiCSRouter: Bi-Level Cross-System Routing for Utility-Aware LLM Inference](){:target="_blank"}  
-Keyu Mao, Eiki Murata, and <u>Ukyo Honda</u>. *ACL* 2026 (Findings, to appear).  
+* [BiCSRouter: Bi-Level Cross-System Routing for Utility-Aware LLM Inference](https://aclanthology.org/2026.findings-acl.947/){:target="_blank"}  
+Keyu Mao, Eiki Murata, and <u>Ukyo Honda</u>. *ACL* 2026 (Findings).  
 
 * [Distilling Many-Shot In-Context Learning into a Cheat Sheet](https://aclanthology.org/2025.findings-emnlp.930/){:target="_blank"}  
 <u>Ukyo Honda</u>, Soichiro Murakami, and Peinan Zhang. *EMNLP* 2025 (Findings).  
@@ -98,6 +99,9 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 [[code](https://github.com/ukyh/prunedBE){:target="_blank"}]
 
 ## Preprints
+
+* [Toward LLMs Beyond English-Centric Development](https://arxiv.org/abs/2605.15613){:target="_blank"}  
+Sho Takase and <u>Ukyo Honda</u>. *arxiv* 2026.  
 
 * [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://arxiv.org/abs/2604.08880){:target="_blank"}  
 Tokio Kajitsuka, <u>Ukyo Honda</u>, and Sho Takase. *arxiv* 2026.  
