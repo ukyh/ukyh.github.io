@@ -74,7 +74,7 @@ Go Inoue, Akihiko Kato, Masato Mita, <u>Ukyo Honda</u>, and Peinan Zhang. *LREC-
 Hwichan Kim, Shota Sasaki, Sho Hoshino, and <u>Ukyo Honda</u>. *LREC-COLING* 2024.  
 [[arxiv](https://arxiv.org/abs/2403.14946){:target="_blank"}][[code](https://github.com/CyberAgentAILab/CondLoRA){:target="_blank"}]
 
-* [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://openaccess.thecvf.com/content/WACV2023/papers/Honda_Switching_to_Discriminative_Image_Captioning_by_Relieving_a_Bottleneck_of_WACV_2023_paper.pdf){:target="_blank"}  
+* [Switching to Discriminative Image Captioning by Relieving a Bottleneck of Reinforcement Learning](https://openaccess.thecvf.com/content/WACV2023/html/Honda_Switching_to_Discriminative_Image_Captioning_by_Relieving_a_Bottleneck_of_WACV_2023_paper.html){:target="_blank"}  
 <u>Ukyo Honda</u>, Taro Watanabe, and Yuji Matsumoto. *WACV* 2023.  
 [[arxiv](https://arxiv.org/abs/2212.03230){:target="_blank"}][[code](https://github.com/ukyh/switch_disc_caption){:target="_blank"}]
 
