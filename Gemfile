@@ -34,8 +34,11 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8.2"
 
-gem "nokogiri", ">= 1.19.3"
-gem "rexml", ">= 3.3.9"
-gem "uri", ">= 0.13.2"
+gem "nokogiri", ">= 1.19.4"
+gem "rexml", ">= 3.4.2"
+gem "uri", ">= 1.0.4"
 gem "csv"
 gem "addressable", ">= 2.9.0"
+gem "faraday", ">= 2.14.3"
+gem "concurrent-ruby", ">= 1.3.7"
+gem "activesupport", ">= 8.0.4.1"
