@@ -24,7 +24,7 @@ Contact: honda_ukyo at cyberagent.co.jp
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
 * [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://arxiv.org/abs/2604.08880){:target="_blank"}  
-Tokio Kajitsuka\*, <u>Ukyo Honda</u>\*, and Sho Takase (\* Equal contribution). *EMNLP* 2026 (Main, to appear).  
+Tokio Kajitsuka<sup>\*</sup>, <u>Ukyo Honda</u><sup>\*</sup>, and Sho Takase (<sup>\*</sup>Equal contribution). *EMNLP* 2026 (Main, to appear).  
 [[arxiv](https://arxiv.org/abs/2604.08880){:target="_blank"}]
 
 * [Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?](https://aclanthology.org/2026.acl-short.2/){:target="_blank"}  
