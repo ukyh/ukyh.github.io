@@ -23,6 +23,13 @@ Contact: honda_ukyo at cyberagent.co.jp
 <u>Ukyo Honda</u>
 [[arxiv](){:target="_blank"}][[code](){:target="_blank"}] -->
 
+* [Toward LLMs Beyond English-Centric Development](https://arxiv.org/abs/2605.15613){:target="_blank"}  
+Sho Takase and <u>Ukyo Honda</u>. *AACL-IJCNLP* 2026 (Main, to appear).  
+[[arxiv](https://arxiv.org/abs/2605.15613){:target="_blank"}]
+
+* [Efficient Many-Shot In-Context Learning with Task-Level Compression and Instance-Level Retrieval](){:target="_blank"}  
+Masayuki Kawarada, <u>Ukyo Honda</u>, and Sho Takase. *AACL-IJCNLP* 2026 (Findings, to appear).  
+
 * [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://arxiv.org/abs/2604.08880){:target="_blank"}  
 Tokio Kajitsuka<sup>\*</sup>, <u>Ukyo Honda</u><sup>\*</sup>, and Sho Takase (<sup>\*</sup>Equal contribution). *EMNLP* 2026 (Main, to appear).  
 [[arxiv](https://arxiv.org/abs/2604.08880){:target="_blank"}]
@@ -103,9 +110,6 @@ Yohei Momoki, Akimichi Ichinose, Yutaro Shigeto, <u>Ukyo Honda</u>, Keigo Nakamu
 [[code](https://github.com/ukyh/prunedBE){:target="_blank"}]
 
 ## Preprints
-
-* [Toward LLMs Beyond English-Centric Development](https://arxiv.org/abs/2605.15613){:target="_blank"}  
-Sho Takase and <u>Ukyo Honda</u>. *arxiv* 2026.  
 
 * [Exploring the Relationship Between Diversity and Quality in Ad Text Generation](https://arxiv.org/abs/2505.16418){:target="_blank"}  
 Yoichi Aoki, Soichiro Murakami, <u>Ukyo Honda</u>, and Akihiko Kato. *arxiv* 2025.  
