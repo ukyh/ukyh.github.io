@@ -30,8 +30,8 @@ Sho Takase and <u>Ukyo Honda</u>. *AACL-IJCNLP* 2026 (Main, to appear).
 * [Efficient Many-Shot In-Context Learning with Task-Level Compression and Instance-Level Retrieval](){:target="_blank"}  
 Masayuki Kawarada, <u>Ukyo Honda</u>, and Sho Takase. *AACL-IJCNLP* 2026 (Findings, to appear).  
 
-* [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://arxiv.org/abs/2604.08880){:target="_blank"}  
-Tokio Kajitsuka<sup>\*</sup>, <u>Ukyo Honda</u><sup>\*</sup>, and Sho Takase (<sup>\*</sup>Equal contribution). *EMNLP* 2026 (Main, to appear).  
+* [Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective](https://aclanthology.org/2026.emnlp-main.2265/){:target="_blank"}  
+Tokio Kajitsuka<sup>\*</sup>, <u>Ukyo Honda</u><sup>\*</sup>, and Sho Takase (<sup>\*</sup>Equal contribution). *EMNLP* 2026 (Main).  
 [[arxiv](https://arxiv.org/abs/2604.08880){:target="_blank"}]
 
 * [Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?](https://aclanthology.org/2026.acl-short.2/){:target="_blank"}  
